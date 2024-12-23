@@ -102,12 +102,12 @@ const Register = () => {
         <button className="btn btn-accent">Submit</button>
       </form>
       <div className="mt-6">
-        <button
+        {/* <button
           className="btn btn-primary"
           onClick={handleLogin}
         >
           Google Sign In
-        </button>
+        </button> */}
       </div>
     </div>
   )
